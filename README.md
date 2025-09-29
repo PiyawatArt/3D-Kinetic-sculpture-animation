@@ -20,9 +20,11 @@ It is part of the assignment submission.
 
 </p>
 
+
+
 \## Demo Videos
 
-!\[Alt text](videos/video1.mp4)
+<video src="videos/video1.mp4" width="600" controls></video>
 
 
 
