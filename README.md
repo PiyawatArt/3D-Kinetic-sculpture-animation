@@ -22,8 +22,6 @@ It is part of the assignment submission.
 
 \## Demo Videos
 
-
-
 \- \[Video 1](videos/video1.mp4)
 
 
