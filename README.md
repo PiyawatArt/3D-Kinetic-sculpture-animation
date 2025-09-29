@@ -24,11 +24,19 @@ It is part of the assignment submission.
 
 \## Demo Videos
 
-\[!\[Watch the video](screenshots/shot1.png)](videos/video1.mp4)
+<p>
+
+&nbsp; <a href="videos/video1.mp4">
+
+&nbsp;   <img src="screenshots/shot1.png" width="50%">
+
+&nbsp; </a>
+
+</p>
+
+
 
 \## How to Run
-
-
 
 
 
