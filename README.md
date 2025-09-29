@@ -22,10 +22,6 @@ It is part of the assignment submission.
 
 
 
-\## Demo Videos
-
-<video src="videos/video1.mp4?raw=1" width="600" controls></video>
-
 
 
 \## How to Run
