@@ -10,15 +10,15 @@ It is part of the assignment submission.
 
 \## Screenshots
 
+<p>
 
+&nbsp; <img src="screenshots/shot1.png" width="33%">
 
-!\[Alt text](screenshots/shot1.png)
+&nbsp; <img src="screenshots/shot2.png" width="33%">
 
-!\[Alt text](screenshots/shot2.png)
+&nbsp; <img src="screenshots/shot3.png" width="33%">
 
-!\[Alt text](screenshots/shot3.png)
-
-
+</p>
 
 \## Demo Videos
 
