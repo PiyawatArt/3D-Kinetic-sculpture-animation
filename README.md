@@ -12,17 +12,17 @@ It is part of the assignment submission.
 
 
 
-!\[Screenshot 1](screenshots/shot1.png)
+!\[Alt text](screenshots/shot1.png)
 
-!\[Screenshot 2](screenshots/shot2.png)
+!\[Alt text](screenshots/shot2.png)
 
-!\[Screenshot 3](screenshots/shot3.png)
+!\[Alt text](screenshots/shot3.png)
 
 
 
 \## Demo Videos
 
-\- \[Video 1](videos/video1.mp4)
+!\[Alt text](videos/video1.mp4)
 
 
 
