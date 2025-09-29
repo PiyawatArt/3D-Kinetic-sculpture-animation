@@ -26,7 +26,7 @@ It is part of the assignment submission.
 
 <p>
 
-&nbsp; <a href="videos/video1.mp4?raw=1">
+&nbsp; <a href="https://raw.githubusercontent.com/PiyawatArt/3D-Kinetic-sculpture-animation/main/videos/video1.mp4" target="\_blank">
 
 &nbsp;   <img src="screenshots/shot1.png" width="50%">
 
