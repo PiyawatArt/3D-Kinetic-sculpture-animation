@@ -24,9 +24,7 @@ It is part of the assignment submission.
 
 \## Demo Videos
 
-<video src="videos/video1.mp4" width="600" controls></video>
-
-
+\[!\[Watch the video](screenshots/shot1.png)](videos/video1.mp4)
 
 \## How to Run
 
